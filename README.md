@@ -1,6 +1,6 @@
 # CPE-010-CPE21S1-Data-Structures-and-Algorithms
 
-
+[Blue and White Retro Computer Programmer Presentation.pdf](https://github.com/user-attachments/files/33905160/Blue.and.White.Retro.Computer.Programmer.Presentation.pdf)
 
 
 ---
